@@ -1,0 +1,4 @@
+Monte Carlo sphere/cube ratio estimation
+N: 100000000 samples, d: 10, seed: 10, size: 16
+Ratio = 0.00248283, Err = 0.00774612
+Elapsed time: 0.078194 seconds
