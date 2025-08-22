@@ -1,0 +1,6 @@
+make: Nothing to be done for 'all'.
+Total planes read: 10000000
+Flight controller simulation: #input input_planes_10kk.txt mode: 1 size: 20
+Time simulation:     0.95s
+Time communication:  3.09s
+Time total:          4.03s
