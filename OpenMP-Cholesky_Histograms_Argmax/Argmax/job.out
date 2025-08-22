@@ -1,0 +1,26 @@
+gcc -fopenmp argmax.c -lm -o argmax
+Running argmax with K = 1
+sequential for       argmax: m =  1.00, idx=8388608, time=0.018033s
+parallel   for       argmax: m =  1.00, idx=8388608, time=0.882080s
+sequential recursive argmax: m =  1.00, idx=8388608, time=0.171807s
+parallel   recursive argmax: m =  1.00, idx=8388608, time=11.736740s
+Running argmax with K = 128
+sequential for       argmax: m =  1.00, idx=8388608, time=0.018055s
+parallel   for       argmax: m =  1.00, idx=8388608, time=1.050966s
+sequential recursive argmax: m =  1.00, idx=8388608, time=0.027947s
+parallel   recursive argmax: m =  1.00, idx=8388608, time=0.062163s
+Running argmax with K = 512
+sequential for       argmax: m =  1.00, idx=8388608, time=0.018047s
+parallel   for       argmax: m =  1.00, idx=8388608, time=1.008227s
+sequential recursive argmax: m =  1.00, idx=8388608, time=0.026505s
+parallel   recursive argmax: m =  1.00, idx=8388608, time=0.017224s
+Running argmax with K = 1024
+sequential for       argmax: m =  1.00, idx=8388608, time=0.018049s
+parallel   for       argmax: m =  1.00, idx=8388608, time=1.061418s
+sequential recursive argmax: m =  1.00, idx=8388608, time=0.026117s
+parallel   recursive argmax: m =  1.00, idx=8388608, time=0.013908s
+Running argmax with K = 2048
+sequential for       argmax: m =  1.00, idx=8388608, time=0.018042s
+parallel   for       argmax: m =  1.00, idx=8388608, time=1.022062s
+sequential recursive argmax: m =  1.00, idx=8388608, time=0.026283s
+parallel   recursive argmax: m =  1.00, idx=8388608, time=0.012478s
