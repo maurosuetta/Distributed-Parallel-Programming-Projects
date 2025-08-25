@@ -12,18 +12,18 @@ The source code files in this repository represent a corrected and improved vers
 
 ## Table of Contents
 
-1.  [Project 1: OpenMP (Shared Memory)](https://www.google.com/search?q=%23project-1-openmp-shared-memory)
+1.  Project 1: OpenMP (Shared Memory)
       * [Cholesky Factorization](https://www.google.com/search?q=%2311-cholesky-factorization)
       * [Histogram Generation](https://www.google.com/search?q=%2312-histogram-generation)
       * [Argmax Algorithm](https://www.google.com/search?q=%2313-argmax-algorithm)
-2.  [Project 2: MPI (Message Passing)](https://www.google.com/search?q=%23project-2-mpi-message-passing)
+2.  Project 2: MPI (Message Passing)
       * [Monte Carlo Estimation](https://www.google.com/search?q=%2321-monte-carlo-estimation)
-      * [Flight Controller Simulator](https://www.google.com/search?q=%2322-flight-controller-simulator)
-3.  [Project 3: CUDA & OpenACC (GPU Acceleration)](https://www.google.com/search?q=%23project-3-cuda--openacc-gpu-acceleration)
+      * Flight Controller Simulator
+3.  Project 3: CUDA & OpenACC (GPU Acceleration)
       * [Vector Addition](https://www.google.com/search?q=%2331-vector-addition)
       * [Matrix Multiplication](https://www.google.com/search?q=%2332-matrix-multiplication)
       * [Lagrangian Particle Tracking](https://www.google.com/search?q=%2333-lagrangian-particle-tracking)
-4.  [Environment and Execution](https://www.google.com/search?q=%23environment-and-execution)
+4.  Environment and Execution
 
 -----
 
